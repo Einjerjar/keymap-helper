@@ -1,12 +1,8 @@
-# Svelte + TS + Vite + Eslint
+# Keymap Helper for Keymap mod
+Simple helper for [Keymap](https://github.com/einjerjar/keymap).
 
-Personal Template with pretty much everything setup
+### Live site
+A live version of the latest build is available [Here](https://keymap-helper.netlify.app/).
 
-## Screenshots
-
-![](images/home.png)
-![](images/page2.png)
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+### Templates
+You can import some templates I made earlier for the mod under [sample_layouts](/sample_layouts)
