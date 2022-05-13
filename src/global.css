@@ -1,0 +1,19 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.af {
+  aspect-ratio: 1;
+}
+
+input, button, .btn {
+  @apply outline-none bg-transparent border-1 rounded px-2 py-1 text-sm border-gray-700 focus:border-gray-600 hover:bg-gray-700 bg-opacity-50;
+}
+
+button, .btn {
+  @apply cursor-pointer disabled:opacity-50;
+}
+
+input {
+  @apply w-5 focus:bg-gray-700;
+}
