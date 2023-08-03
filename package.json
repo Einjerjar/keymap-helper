@@ -32,6 +32,6 @@
   },
   "dependencies": {
     "@iconify/svelte": "^2.2.1",
-    "yaml": "^2.0.1"
+    "yaml": "^2.2.2"
   }
 }
